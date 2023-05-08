@@ -16,6 +16,7 @@ function WordBank() {
           >
             <p className={styles.word}>{item.word}</p>
             <img
+              className={styles.img}
               alt={`${item.word}`}
               src={item.imgSrc}
               height="165px"

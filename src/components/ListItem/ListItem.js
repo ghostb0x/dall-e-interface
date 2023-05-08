@@ -17,6 +17,7 @@ function ListItem({suggestion}) {
     >
       <p className={styles.word}>{suggestion.word}</p>
       <img
+        className={styles.img}
         src={suggestion.imgSrc}
         alt={`${suggestion.word}`}
         height="165px"
