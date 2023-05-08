@@ -1,11 +1,13 @@
 import React from 'react';
 import { WordBankContext } from '../WordBankProvider';
+import styles from './ListItem.module.css'
 
 function ListItem({suggestion}) {
   const { addToWordBank } = React.useContext(WordBankContext);
 
   return (
     <div
+      className={styles.item}
       key={suggestion.id}
       onClick={() => {
         addToWordBank(suggestion);
@@ -13,10 +15,12 @@ function ListItem({suggestion}) {
         // closeGeneratorInterface()
       }}
     >
-      <p>{suggestion.word}</p>
+      <p className={styles.word}>{suggestion.word}</p>
       <img
         src={suggestion.imgSrc}
         alt={`${suggestion.word}`}
+        height="165px"
+        width="165px"
       />
     </div>
   );
