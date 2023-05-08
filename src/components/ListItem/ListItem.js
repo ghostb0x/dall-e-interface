@@ -1,20 +1,23 @@
 import React from 'react';
 import { WordBankContext } from '../WordBankProvider';
 
-function ListItem(suggestion) {
-  const [addToWordBank] = React.useContext(WordBankContext);
+function ListItem({suggestion}) {
+  const { addToWordBank } = React.useContext(WordBankContext);
 
   return (
     <div
       key={suggestion.id}
       onClick={() => {
-        addToWordBank(suggestion)
+        addToWordBank(suggestion);
+        // addToTextInput(suggestion.word)
         // closeGeneratorInterface()
-      }
-        }
+      }}
     >
-      <p>{suggestion.suggestionWord}</p>
-      <img src={suggestion.imgSrc} alt={`${suggestion.suggestionWord}`} />
+      <p>{suggestion.word}</p>
+      <img
+        src={suggestion.imgSrc}
+        alt={`${suggestion.word}`}
+      />
     </div>
   );
 }
