@@ -20,8 +20,6 @@ function ListItem({suggestion}) {
         className={styles.img}
         src={suggestion.imgSrc}
         alt={`${suggestion.word}`}
-        height="165px"
-        width="165px"
       />
     </div>
   );
