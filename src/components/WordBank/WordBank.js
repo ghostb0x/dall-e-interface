@@ -15,13 +15,12 @@ function WordBank() {
             className={styles.item}
           >
             <p className={styles.word}>{item.word}</p>
-            
-              <img
-                className={styles.img}
-                alt={`${item.word}`}
-                src={item.imgSrc}
-              />
-            
+
+            <img
+              className={styles.img}
+              alt={`${item.word}`}
+              src={item.imgSrc}
+            />
           </div>
         ))}
       </div>

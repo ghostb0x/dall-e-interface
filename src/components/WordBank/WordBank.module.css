@@ -1,27 +1,28 @@
 .wordShelf {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 16px;
 }
 .item {
-    display: flex;
-    align-items: center;
-    border: 1px black solid;
-    border-radius: 16px;
-    width: 350px;
-  }
-  
-  .word {
-    flex: 1;
-    padding: 12px 0px;
-    font-weight: 600;
-    text-align: center;
-  }
+  display: flex;
+  align-items: center;
+  border: 1px black solid;
+  border-radius: 16px;
+  width: 350px;
+  /* line-height: 0; */
+}
 
-  .img {
-    border-radius: 16px;
-    height: 125px;
-  }
-  
+.word {
+  flex: 1;
+  padding: 12px 0px;
+  font-weight: 600;
+  text-align: center;
+}
 
+
+.img {
+  display: block;
+  border-radius: 16px;
+  height: 125px;
+}

@@ -1,15 +1,11 @@
 import React from 'react';
-import WordGenerator from '../WordGenerator';
 import WordBankProvider from '../WordBankProvider';
-import WordBank from '../WordBank/WordBank';
-
+import AppContents from '../AppContents';
 
 function App() {
-
   return (
     <WordBankProvider>
-      <WordGenerator />
-      <WordBank />
+      <AppContents />
     </WordBankProvider>
   );
 }
