@@ -11,101 +11,93 @@ export const WordBankData = [
                         id: "animals2",
                         word: "elephant",
                         imgSrc: "https://images.unsplash.com/photo-1597489204822-6f031f10f09d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
-                    },                   
+                    }, 
                     {
                         id: "animal3",
                         word: "lion",
-                        imgSrc: "https://images.unsplash.com/photo-1523275335684-37898bbdb7af"
+                        imgSrc: "https://source.unsplash.com/featured/?lion"
                     },
                     {
                         id: "animal4",
                         word: "tiger",
-                        imgSrc: "https://images.unsplash.com/photo-1531259683006-016a7b6285e9"
+                        imgSrc: "https://source.unsplash.com/featured/?tiger"
                     },
                     {
                         id: "animal5",
-                        word: "zebra",
-                        imgSrc: "https://images.unsplash.com/photo-1541252265472-986a3f63e120"
+                        word: "giraffe",
+                        imgSrc: "https://source.unsplash.com/featured/?giraffe"
                     },
                     {
                         id: "animal6",
-                        word: "giraffe",
-                        imgSrc: "https://images.unsplash.com/photo-1509590047047-7aa6cec3b99b"
+                        word: "bear",
+                        imgSrc: "https://source.unsplash.com/featured/?bear"
                     },
                     {
                         id: "animal7",
-                        word: "bear",
-                        imgSrc: "https://images.unsplash.com/photo-1520613905553-7a2aead556d4"
+                        word: "panda",
+                        imgSrc: "https://source.unsplash.com/featured/?panda"
                     },
                     {
                         id: "animal8",
-                        word: "panda",
-                        imgSrc: "https://images.unsplash.com/photo-1580401393468-bcea1f4b2f63"
+                        word: "penguin",
+                        imgSrc: "https://source.unsplash.com/featured/?penguin"
                     },
                     {
                         id: "animal9",
-                        word: "penguin",
-                        imgSrc: "https://images.unsplash.com/photo-1515269055666-480c3a74f21f"
+                        word: "dolphin",
+                        imgSrc: "https://source.unsplash.com/featured/?dolphin"
                     },
                     {
                         id: "animal10",
-                        word: "dolphin",
-                        imgSrc: "https://images.unsplash.com/photo-1560262136-7b3a6f3b2aa7"
+                        word: "octopus",
+                        imgSrc: "https://source.unsplash.com/featured/?octopus"
                     },
                     {
                         id: "animal11",
-                        word: "octopus",
-                        imgSrc: "https://images.unsplash.com/photo-1601238851244-f4e82e0b7660"
+                        word: "butterfly",
+                        imgSrc: "https://source.unsplash.com/featured/?butterfly"
                     },
                     {
                         id: "animal12",
-                        word: "butterfly",
-                        imgSrc: "https://images.unsplash.com/photo-1560807707-824a139f7b3e"
+                        word: "bee",
+                        imgSrc: "https://source.unsplash.com/featured/?bee"
                     },
                     {
                         id: "animal13",
-                        word: "bee",
-                        imgSrc: "https://images.unsplash.com/photo-1542634754-87f5e8f4c4a5"
+                        word: "owl",
+                        imgSrc: "https://source.unsplash.com/featured/?owl"
                     },
                     {
                         id: "animal14",
-                        word: "owl",
-                        imgSrc: "https://images.unsplash.com/photo-1553872602-21e0da5a090c"
+                        word: "eagle",
+                        imgSrc: "https://source.unsplash.com/featured/?eagle"
                     },
                     {
                         id: "animal15",
-                        word: "eagle",
-                        imgSrc: "https://images.unsplash.com/photo-1568040697987-5ce2037950be"
+                        word: "shark",
+                        imgSrc: "https://source.unsplash.com/featured/?shark"
                     },
                     {
                         id: "animal16",
-                        word: "shark",
-                        imgSrc: "https://images.unsplash.com/photo-1566820390414-68b7d23b7833"
+                        word: "whale",
+                        imgSrc: "https://source.unsplash.com/featured/?whale"
                     },
                     {
                         id: "animal17",
-                        word: "whale",
-                        imgSrc: "https://images.unsplash.com/photo-1536104968059-1f67a5ad5f7b"
+                        word: "jellyfish",
+                        imgSrc: "https://source.unsplash.com/featured/?jellyfish"
                     },
                     {
                         id: "animal18",
-                        word: "jellyfish",
-                        imgSrc: "https://images.unsplash.com/photo-1546435053-2f9450d09a55"
+                        word: "crocodile",
+                        imgSrc: "https://source.unsplash.com/featured/?crocodile"
                     },
                     {
                         id: "animal19",
-                        word: "crocodile",
-                        imgSrc: "https://images.unsplash.com/photo-1554200876-5f3c16b22e11"
-                    },
-                    {
-                        id: "animal20",
                         word: "snake",
-                        imgSrc: "https://images.unsplash.com/photo-1567304547916-d9800a97c585"
-                    }
-                    
-                
-                    
-                    
+                        imgSrc: "https://source.unsplash.com/featured/?snake"
+                    },
+
                 ]
     },
     {
