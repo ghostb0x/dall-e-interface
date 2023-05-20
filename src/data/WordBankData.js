@@ -15,87 +15,87 @@ export const WordBankData = [
                     {
                         id: "animal3",
                         word: "lion",
-                        imgSrc: "https://source.unsplash.com/featured/?lion"
+                        imgSrc: "https://source.unsplash.com/900x600/?lion"
                     },
                     {
                         id: "animal4",
                         word: "tiger",
-                        imgSrc: "https://source.unsplash.com/featured/?tiger"
+                        imgSrc: "https://source.unsplash.com/900x600/?tiger"
                     },
                     {
                         id: "animal5",
                         word: "giraffe",
-                        imgSrc: "https://source.unsplash.com/featured/?giraffe"
+                        imgSrc: "https://source.unsplash.com/900x600/?giraffe"
                     },
                     {
                         id: "animal6",
                         word: "bear",
-                        imgSrc: "https://source.unsplash.com/featured/?bear"
+                        imgSrc: "https://source.unsplash.com/900x600/?bear"
                     },
                     {
                         id: "animal7",
                         word: "panda",
-                        imgSrc: "https://source.unsplash.com/featured/?panda"
+                        imgSrc: "https://source.unsplash.com/900x600/?panda"
                     },
                     {
                         id: "animal8",
                         word: "penguin",
-                        imgSrc: "https://source.unsplash.com/featured/?penguin"
+                        imgSrc: "https://source.unsplash.com/900x600/?penguin"
                     },
                     {
                         id: "animal9",
                         word: "dolphin",
-                        imgSrc: "https://source.unsplash.com/featured/?dolphin"
+                        imgSrc: "https://source.unsplash.com/900x600/?dolphin"
                     },
                     {
                         id: "animal10",
                         word: "octopus",
-                        imgSrc: "https://source.unsplash.com/featured/?octopus"
+                        imgSrc: "https://source.unsplash.com/900x600/?octopus"
                     },
                     {
                         id: "animal11",
                         word: "butterfly",
-                        imgSrc: "https://source.unsplash.com/featured/?butterfly"
+                        imgSrc: "https://source.unsplash.com/900x600/?butterfly"
                     },
                     {
                         id: "animal12",
                         word: "bee",
-                        imgSrc: "https://source.unsplash.com/featured/?bee"
+                        imgSrc: "https://source.unsplash.com/900x600/?bee"
                     },
                     {
                         id: "animal13",
                         word: "owl",
-                        imgSrc: "https://source.unsplash.com/featured/?owl"
+                        imgSrc: "https://source.unsplash.com/900x600/?owl"
                     },
                     {
                         id: "animal14",
                         word: "eagle",
-                        imgSrc: "https://source.unsplash.com/featured/?eagle"
+                        imgSrc: "https://source.unsplash.com/900x600/?eagle"
                     },
                     {
                         id: "animal15",
                         word: "shark",
-                        imgSrc: "https://source.unsplash.com/featured/?shark"
+                        imgSrc: "https://source.unsplash.com/900x600/?shark"
                     },
                     {
                         id: "animal16",
                         word: "whale",
-                        imgSrc: "https://source.unsplash.com/featured/?whale"
+                        imgSrc: "https://source.unsplash.com/900x600/?whale"
                     },
                     {
                         id: "animal17",
                         word: "jellyfish",
-                        imgSrc: "https://source.unsplash.com/featured/?jellyfish"
+                        imgSrc: "https://source.unsplash.com/900x600/?jellyfish"
                     },
                     {
                         id: "animal18",
                         word: "crocodile",
-                        imgSrc: "https://source.unsplash.com/featured/?crocodile"
+                        imgSrc: "https://source.unsplash.com/900x600/?crocodile"
                     },
                     {
                         id: "animal19",
                         word: "snake",
-                        imgSrc: "https://source.unsplash.com/featured/?snake"
+                        imgSrc: "https://source.unsplash.com/900x600/?snake"
                     },
 
                 ]
