@@ -2,6 +2,7 @@ import React from 'react';
 import WordBank from '../WordBank';
 import QueryInput from '../QueryInput';
 import WordGenerator from '../WordGenerator';
+import OverlayDialog from '../OverlayDialog';
 import styles from './AppContents.module.css'
 
 function AppContents() {
@@ -9,7 +10,10 @@ function AppContents() {
     <>
       <div className={styles.appContainer}>
         <QueryInput />
-        <WordGenerator />
+        <OverlayDialog>
+          <WordGenerator />
+        </OverlayDialog>
+        
       </div>
       <WordBank />
     </>
