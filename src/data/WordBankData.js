@@ -102,7 +102,7 @@ export const WordBankData = [
     ],
   },
   {
-    category: 'places',
+    category: 'countries',
     items: [
       {
         id: 'country1',
@@ -402,7 +402,7 @@ export const WordBankData = [
         {
             id: "verb29",
             word: "Smiling",
-            imgSrc: "https://source.unsplash.com/900x600/?Smiling",
+            imgSrc: "https://source.unsplash.com/900x600/?Running",
         },
         {
             id: "verb30",
