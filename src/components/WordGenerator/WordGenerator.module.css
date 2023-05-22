@@ -3,5 +3,6 @@
     flex-direction: column;
     justify-content: flex-start;
     gap: 16px;
+    align-items: center;
 }
 

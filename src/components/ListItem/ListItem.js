@@ -5,13 +5,13 @@ import styles from './ListItem.module.css'
 function ListItem({suggestion}) {
   const { addToWordBank } = React.useContext(WordBankContext);
 
+
   return (
     <div
       className={styles.item}
       key={suggestion.id}
       onClick={() => {
         addToWordBank(suggestion);
-        // addToTextInput(suggestion.word)
         // closeGeneratorInterface()
       }}
     >

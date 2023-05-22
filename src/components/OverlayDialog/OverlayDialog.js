@@ -7,7 +7,9 @@ function OverlayDialog({ children }) {
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
-        <button className={styles.OpenButton}>Open Word Generator</button>
+        <button className={styles.OpenButton}>
+          Open Word Generator
+        </button>
       </Dialog.Trigger>
       <Dialog.Portal>
         <Dialog.Overlay className={styles.DialogOverlay}>
@@ -27,7 +29,7 @@ function OverlayDialog({ children }) {
                 <Cross2Icon />
               </button>
             </Dialog.Close>
-            {children}
+            <div className={styles.ItemColumn}>{children}</div>
           </Dialog.Content>
         </Dialog.Overlay>
       </Dialog.Portal>
